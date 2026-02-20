@@ -1,0 +1,6 @@
+[submodule "ports/photon_kit-devel"]
+	path = ports/photon_kit-devel
+	url = git@github.com:amlel-el-mahrouss/photon_kit.git
+[submodule "ports/src-devel"]
+	path = ports/src-devel
+	url = git@github.com:nekernel-org/src.git
