@@ -4,3 +4,6 @@
 [submodule "ports/src-devel"]
 	path = ports/src-devel
 	url = git@github.com:nekernel-org/src.git
+[submodule "ports/ocl-devel"]
+	path = ports/ocl-devel
+	url = git@github.com:ocl-org/ocl.git
